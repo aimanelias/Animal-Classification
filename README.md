@@ -58,6 +58,9 @@ project/
 └── ...                  # Other files
 ```
 
+## License
+Specify your license here.
+
 ## Acknowledgements
 - Dataset sources
 - Libraries and frameworks used 
